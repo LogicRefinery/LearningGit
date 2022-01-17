@@ -6,3 +6,9 @@ I Like coding And Programming
 Add Images
 
 Delete Image
+
+Add Javascript Code
+
+const textEditor = (e) => {
+    console.log(e.target);
+}
